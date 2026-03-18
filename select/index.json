@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Memento",
   "base_artist": "nonoc",
-  "createdAt": "2025-12-18T10:35:06.109023Z",
+  "createdAt": "2026-03-18T16:31:57.781198Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -153,8 +153,8 @@
       "source": "lrclib",
       "title": "Memento Mori",
       "artist": "Architects",
-      "has_synced": false,
-      "path": "select/19_Memento_Mori_Architects.txt"
+      "has_synced": true,
+      "path": "select/19_Memento_Mori_Architects.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -163,6 +163,15 @@
       "artist": "nonoc",
       "has_synced": false,
       "path": "select/pl_01_Memento_nonoc.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Memento",
+      "artist": "nonoc",
+      "has_synced": true,
+      "path": "select/localdb_01_Memento_nonoc.lrc",
+      "repo_name": "EkpRhWXbEqY"
     }
   ]
 }
